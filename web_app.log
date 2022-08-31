@@ -1,0 +1,5 @@
+{"level":"DEBUG","time":"2022-08-31T15:43:41.682+0800","caller":"web_app/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-08-31T15:43:43.761+0800","caller":"mysql/mysql.go:24","msg":"connect DB failed","error":"dial tcp 127.0.0.1:13306: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"DEBUG","time":"2022-08-31T15:47:12.045+0800","caller":"web_app/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-08-31T15:47:14.106+0800","caller":"mysql/mysql.go:24","msg":"connect DB failed","error":"dial tcp 127.0.0.1:13306: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"DEBUG","time":"2022-08-31T15:47:32.590+0800","caller":"web_app/main.go:35","msg":"logger init success..."}
